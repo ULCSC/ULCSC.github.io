@@ -57,7 +57,7 @@ If your interested in developing your skills as a programmer, try one of the fol
 Codewars is a online coding website similar to leetcode in that it has
 many programming problems however the full functionality of it is completely free,
 it is a very good site to use when learning the STL, or a new programming language.
-If you're interested please follow this [link](www.codewars.com/r/a0beVw)
+If you're interested please follow this [link](https://www.codewars.com)
 Also be sure to join the **University of Lethbridge** clan!
 
 ### Kattis
