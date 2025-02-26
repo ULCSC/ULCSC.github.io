@@ -1,6 +1,6 @@
 ---
 title: Introduction to Hackathons
-date: 2025-02-24 13:20:00 -0700
+date: 2025-02-26 11:04:00 -0700
 categories: [Information]
 tags: [hackathons, information]
 author: James
