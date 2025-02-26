@@ -10,7 +10,7 @@ description: An Introduction to using basic commands of the terminal.
 The terminal is a tool that you will need to get comfortable using one
 way or another, here is a quick guide on various commands you can use.
 
-### pwd
+## pwd
 
 `pwd` stands for **print working directory** and when entered into the command line
 will tell you your path from home. For example, when in the desktop folder, I can
@@ -20,7 +20,7 @@ run `pwd` and get the output:
 
 ![gif of pwd](../assets/basic_commands/pwd-ulcsc.gif)
 
-### ls
+## ls
 
 `ls` stands for list, and lists the files and directories in a directory.
 
@@ -34,7 +34,7 @@ In my home directory when I run `ls -a` I get the following output:
 
 ![gif of ls -a](../assets/basic_commands/ls-a-ulcsc.gif)
 
-### cd
+## cd
 
 `cd` stands for change directory, and it will change your directory to the one
 you specify.
@@ -46,7 +46,7 @@ extensions `..` or `...`. The `..` extension will move you one directory backwar
 the `...` extension will move you two directories backwards. And just typing `cd`
 will move you all the way back to the home directory.
 
-### touch
+## touch
 
 The touch command is responsible for creating files, by typing `touch filename.filetype`
 the file is created in the directory you are currently in.
@@ -63,7 +63,7 @@ you are currently in.
 Touch can be used to add files to directories you are not currently in - you will
 still need to specify the path though.
 
-### cat
+## cat
 
 The `cat` command has a couple of uses, when a file is added infront of it, the
 text within the file will be read and output into the terminal. This command is
@@ -81,7 +81,7 @@ into another file. The way to do this is best shown with an example:
 
 ![gif of using cat copy](../assets/basic_commands/cat-push-ulcsc.gif)
 
-### man
+## man
 
 The `man` command which stands for manual, will bring up a manual for the specific
 command typed after it.
@@ -90,7 +90,7 @@ command typed after it.
 
 To exit the `man` page type q.
 
-### rm
+## rm
 
 The `rm` command which stands for remove is the command responsible for deleting
 files and directories.
@@ -117,13 +117,13 @@ In use:
 
 `rm -r dir_name`
 
-### clear
+## clear
 
 `clear` is used to clear the terminal screen.
 
 ![gif of clear](../assets/basic_commands/clear-ulcsc.gif)
 
-### echo
+## echo
 
 `echo` is used to output to the terminal screen. Although not useful right now
 when using make or another bash script it is very useful to use to tell the user what
@@ -133,18 +133,18 @@ is happening behind the scenes.
 
 Also, not using a gif for this one since I've used it in the other gifs
 
-### head and tail
+## head and tail
 
 ![gif of heads and tails](../assets/basic_commands/head-tail-ulcsc.gif)
 
-### whoami
+## whoami
 
 `whoami` is used to tell who the current user is. It has uses, just not something
 you'll use often.
 
 ![gif of whoami](../assets/basic_commands/whoami-ulcsc.gif)
 
-### cal
+## cal
 
 `cal` displays a calander, that's pretty much all it does, just added it for fun.
 
