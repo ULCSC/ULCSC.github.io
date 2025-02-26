@@ -4,7 +4,7 @@ date: 2025-02-24 19:41:00 -0700
 categories: [Resources]
 tags: [help, information, resources]
 author: James
-description: Guide to setting up the Windows operating system for C++ development.
+description: A collection of the other resources students have access to. 
 ---
 
 Here is a collection of resources you as students have for free
