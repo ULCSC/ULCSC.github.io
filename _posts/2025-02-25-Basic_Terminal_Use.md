@@ -48,6 +48,9 @@ will move you all the way back to the home directory.
 
 ## touch
 
+> For windows users, windows does not have the `touch` command, instead, you can use: `echo. > filename.filetype`. Or if you use powershell, you can use the `New-Item` command.
+{: .prompt-info }
+
 The touch command is responsible for creating files, by typing `touch filename.filetype`
 the file is created in the directory you are currently in.
 
