@@ -16,7 +16,7 @@ description: Guide to setting up the Windows operating system for C++ developmen
 ## Install MSYS2 Executable
 
 In order to install the CPP compiler on your Windows machine, you will need to
-install the **MSYS2 executable**. It can be found [here](http://www.msys2.org).
+install the **MSYS2 executable**. It can be found [here](https://www.msys2.org/).
 
 Once downloaded, run the executable and use the default location of `C:\msys64`
 and finish the install. A new terminal window should open with the follow format
