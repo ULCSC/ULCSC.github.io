@@ -9,13 +9,7 @@ description: A collection of the other resources students have access to.
 
 Here is a collection of resources you as students have for free
 the CS club is providing installation instructions, but there are
-many external resources you as students have access to aswell
-
-## Included Resources
-
-- We are including guides to setting up your workspace whether you are on
-Windows or MacOS.
-- We are including a guide for the plethora of terminal commands.
+many external resources you as students have access to aswell.
 
 ## Education / Quality of Life
 
