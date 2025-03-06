@@ -6,3 +6,7 @@ tags: [tutorial, terminal, git]
 author: James
 description: A short guide to the basics of Git.
 ---
+
+## There's nothing here yet
+
+- Work in progress
