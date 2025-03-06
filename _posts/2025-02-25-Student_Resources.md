@@ -69,7 +69,10 @@ If your interested, here is an example of one: [link](https://github.com/TheNetA
 
 ## Issues / Feedback / Contributing
 
-If you see any issues with this README, don't hesitate to let one of the
-executives know Also if you know of another resource students have readilly
-available please let one of the executives know so we can add it ASAP. If you
-want, you can also send us a MarkDown file, and we'll add it to the site.
+If you see any problems with these pages (incorrect information, misspelled
+words, incorrect formatting), please create an issue on the repo, or let one
+of the executives know.
+
+If you have an idea for a resource or page that could be useful, or you want
+to get involved with the club, please become a contributor! See more on that
+in the README.
