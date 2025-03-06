@@ -29,8 +29,8 @@ Here is a [link](https://chirpy.cotes.page/posts/write-a-new-post/) to the start
 guide to making posts. Additionally, here is a [link](https://www.markdownguide.org/)
 to the Markdown guide.
 
-Please test your code in a separate branch before pushing to main, dead links,
-assets that don't exist, and incorrect html / Markdown will crash the site.
+To contribute, please make a pull request, this will allow the executives to audit
+your work before it is added to the main site.
 
 ## License of Starter
 
