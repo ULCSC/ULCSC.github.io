@@ -37,3 +37,13 @@ If you are interested in competing regularly, [Itch](https://itch.io/jams)
 is a site that connects people to tons of Jams. In addition to using Itch,
 here is a [link](https://github.com/kobitoko/Game-Jam-Tools-Resources)
 to a repo that cover's hackathons much more in depth.
+
+## Issues / Feedback / Contributing
+
+If you see any problems with these pages (incorrect information, misspelled
+words, incorrect formatting), please create an issue on the repo, or let one
+of the executives know.
+
+If you have an idea for a resource or page that could be useful, or you want
+to get involved with the club, please become a contributor! See more on that
+in the README.

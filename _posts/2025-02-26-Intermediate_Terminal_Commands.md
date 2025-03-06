@@ -48,7 +48,12 @@ take too long. Also I think it'll probably be nice to pause the videos.
 I could include lines of documentation, but the best way to
 learn how to use these commands is to practice.
 
-## Issues
+## Issues / Feedback / Contributing
 
-If you see any issues or something wrong inside of this guide do not
-hesitate to message an executive so we can fix it.
+If you see any problems with these pages (incorrect information, misspelled
+words, incorrect formatting), please create an issue on the repo, or let one
+of the executives know.
+
+If you have an idea for a resource or page that could be useful, or you want
+to get involved with the club, please become a contributor! See more on that
+in the README.
