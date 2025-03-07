@@ -98,12 +98,11 @@ To exit the `man` page type q.
 The `rm` command which stands for remove is the command responsible for deleting
 files and directories.
 
-> [!Warning]
 > When using this command files / directories will not be moved to trash when they
 > are deleted, they will be permenantly removed from existence, there is not way
 > to recover files when using rm. Make sure you are deleting what you want to be
 > deleleting.
->
+{: .prompt-warning }
 
 ![gif of rm](../assets/basic_commands/rm-ulcsc.gif)
 
