@@ -1,6 +1,6 @@
 ---
 title: Install Guide for Powershell 7
-date: 2025-03-06 10:17:00 -0700  
+date: 2025-03-05 10:17:00 -0700  
 categories: [Tutorial]
 tags: [tutorial, windows, shell, powershell]
 author: Parker
