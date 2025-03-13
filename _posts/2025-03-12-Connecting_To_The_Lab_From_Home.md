@@ -3,7 +3,7 @@ title: Connecting to the Lab from Home
 date: 2025-03-12 21:24:00 -0700
 categories: [Tutorial]
 tags: [osx, mac, windows, help, terminal, tutorial]
-author: David Peters
+author: David
 description: Guide to connecting to the school lab from home using SSH and SFTP
 ---
 
