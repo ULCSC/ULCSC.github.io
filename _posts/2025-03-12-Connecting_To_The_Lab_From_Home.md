@@ -48,9 +48,9 @@ If SSH is not installed, run the command for your respective operating system:
 
 ### Connecting to the University VPN
 
-You can check out the Univerity's guide for using the VPN [here](https://uleth.service-now.com/sp?id=kb_article&sys_id=ca29e6373bc95e1062aa675aa5e45ada)
+You can check out the Univerity's guide for using the VPN [here](https://uleth.service-now.com/sp?id=kb_article&sys_id=ca29e6373bc95e1062aa675aa5e45ada).
 
-Contact IT Services if you encounter issues using the VPN
+Contact IT Services if you encounter issues using the VPN.
 
 ## Using SSH and SFTP
 
@@ -58,7 +58,8 @@ In order to use the SSH and SFTP, you will need your linux lab login credentials
 
 For example, John Doe in CPSC 1620 would have a login of the form doej1620. If you do not have these credentials speak to your instructor.
 
-Run the SSH command with `ssh doej1620@student0.cs.uleth.ca`,
+Run the SSH command with `ssh doej1620@student0.cs.uleth.ca`
+
 `student0`, `student1` and `student2` are all available for use. If one isn't working, it's worth trying another.
 
 You will be prompted for your password. After successfully logging in, you will now be in a terminal session on the school network
