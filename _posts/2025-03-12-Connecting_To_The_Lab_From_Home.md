@@ -66,6 +66,10 @@ You will be prompted for your password. After successfully logging in, you will 
 where you can run commands as you would from the lab, including runnings your programs to ensure they work on the schools machines.
 Checkout "Basic Terminal Use" if you need a refresher.
 
+**Note: If it is your first time logging in, you may be prompted to authenticate the host. Double check you have the address right and hit yes,**
+**the host will be added to your machines known hosts and you should not see this prompt again.**
+![image of fingerprint example](../assets/ssh_sftp/fingerprintExample.png)
+
 Similarly, you can enter a SFTP session by running `sftp doej1620@student0.cs.uleth.ca`, the process is the same.
 The `put <filename>` will move a file from your current local machines directory to the remote machines current directory.
 The `get <filename>` will behave similarly, but for retrieving files from the remote machine and storing them on your local machine.
