@@ -4,43 +4,57 @@ date: 2025-02-24 19:41:00 -0700
 categories: [Resources]
 tags: [help, information, resources]
 author: James
-description: A collection of the other resources students have access to. 
+description: A collection of the other resources students have access to.
 ---
 
 Here is a collection of resources you as students have for free
 the CS club is providing installation instructions, but there are
 many external resources you as students have access to aswell.
 
-## Education / Quality of Life
+## Learning and Quality of Life
 
-### Udemy / Other
+### Udemy, Calm, ProWritingAid, Nimbus Learning and Aaptiv
 
 - The ULSU has a way to give students free access to Udemy, where all the
-course available are free on it. This resource is especially useful for people who
-want to get ahead of their courses. If you are interested please follow
-this [link](https://ulsu.ca/student-support)
+  course available are free on it. This resource is especially useful for people
+  who want to get ahead of their courses. If you are interested please follow
+  this [link](https://ulsu.ca/student-support)
 
-### JetBrains
+### Learn X in Y minutes
+
+- Learn X in Y minutes is a site full of tutorials on a wide variety of languages
+  and tools, some of which you may encounter during your degree:
+  - [C++](https://learnxinyminutes.com/c++/)
+  - [Make](https://learnxinyminutes.com/make/)
+  - [Python](https://learnxinyminutes.com/python/)
+  - [Racket](https://learnxinyminutes.com/racket/)
+  - [Prolog](https://learnxinyminutes.com/prolog/)
+  - [Mips](https://learnxinyminutes.com/mips/)
+  - [SQL](https://learnxinyminutes.com/sql/)
+  - [JSON](https://learnxinyminutes.com/json/)
+  - [Docker](https://learnxinyminutes.com/docker/)
+  - [Git](https://learnxinyminutes.com/git/)
+
+### JetBrains IDES
 
 - As students we can get **free access** to **Clion** and other **JetBrains IDES**
-If you're interested please follow this [link](https://www.jetbrains.com/community/education/#students).
+  If you're interested please follow this [link](https://www.jetbrains.com/community/education/#students).
 
 ### MIT Opencourseware
 
 - MIT Opencourseware is a library of **free courses** available to everyone covering
-a wide variety of topics.
-If you're interested check it out [here](https://ocw.mit.edu/).
+  a wide variety of topics. If you're interested check it out [here](https://ocw.mit.edu/).
 
 ### GitHub
 
 - As students you can get **discounted access** to quite a few resources from GitHub
-If you're interested please follow this [link](https://education.github.com/discount_requests/application).
+  If you're interested please follow this [link](https://education.github.com/discount_requests/application).
 
 ### Discounts
 
 - Through the University of Lethbridge's IT store, U of L's students have access
-to many tech discounts including **Parallels** and **Adobe** software.
-If you're interested please follow this [link](https://www.ulethbridge.ca/information-technology/store)
+  to many tech discounts including **Parallels** and **Adobe** software.
+  If you're interested please follow this [link](https://www.ulethbridge.ca/information-technology/store)
 
 ## Skill Building
 
@@ -59,7 +73,7 @@ Also be sure to join the **University of Lethbridge** clan!
 If you haven't already heard Kattis is the main platform to learn and do
 competitive programming problems. By competing in contests and solving
 competitive programming problems your skills as a coder will exponentially
-increase.
+increase. To check it out, follow this link here: [Kattis](https://open.kattis.com/)
 
 ### Programming Projects
 
